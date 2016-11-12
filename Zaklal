@@ -1,0 +1,11 @@
+
+ telegramBot :
+
+    Защиту  __init__ ( самостоятельно , маркер  =  " 242634207: AAGaiOacEYqAXNmfO-SBhajm52ZTqHf0odA " , last_update_id  =  None ):
+        самостоятельно .Token = маркер
+        самостоятельно .Last_Update_ID242634207 = last_update_id242634207
+        самостоятельно .Reply_Markup = telegram.ReplyKeyboardHide ()
+        самостоятельно . AI  = telegram.Bot ( само .Token)242634207:AAGaiOacEYqAXNmfO-SBhajm52ZTqHf0odA
+        самостоятельно .ChatsIDs = {}242634207
+        logging.basicConfig ( формат = ' % (asctime) s - % (имя) s - % (levelname) s - % (сообщение) s ' )
+       
